@@ -26,6 +26,6 @@ Copyright of the slides belongs to Professor Manfred Morari and his collaborator
 
 
 ## Special Comments
-- Spring 2023 is the last time Professor Morari taught this course. Learned so much from this world-leading control theorist. Always gained new understanding in both research and practice not only from the course, but also from those one-to-one private chats during the after-class office hours. Thank you, Manfred!
+- Spring 2023 is the last time Professor Morari taught this course. Learned so much from this world-leading control theorist. Always gained new understanding of both research and practice from him not only in the course, but also in those one-to-one private chats during the after-class office hours. Thank you, Manfred!
 
 - Also recommended: Professor Manfred Morari's [Farewell Lecture](https://urldefense.com/v3/__https://video.ethz.ch/speakers/lecture/634d922a-f36c-4878-8450-c158ba2040c9.html__;!!IBzWLUs!XFal5FMzKj5YwyyryK-me--YujKmEuPIKt1fIKXTMgbaHfHsDuCZth74plter_nZq7On8kNH7iusHSduX2uVnUgv0jp1$) at ETH in 2016: Computation and Uncertainty, Reflections on 40 Years of Control. He gave a similar farewell talk in the last lecture of the semester. Definitely worth reviewing over and over again.
