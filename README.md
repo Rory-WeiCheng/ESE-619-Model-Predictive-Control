@@ -14,17 +14,18 @@ Lecture Slides, Personal Notes, Homework Solutions and Codes for ESE 619: Model 
 Copyright of the slides belongs to Professor Manfred Morari and his collaborators.
 
 ## Homework Assignments (Homework)
-- 7 homeworks assignments
+- 7 homework assignments
 - HWX_code: MATLAB source code (live scripts) for each of the assignment
 - ESE_619_HWX_Wei-Cheng_Huang: Personal Solution for the homework, final grade: 449.5/450
 - To run the MATLAB code, you need to install the [Multi-Parametric Toolbox (MPT3)](https://www.mpt3.org/)
 
 
 ## Personal Notes (Notes)
-- Personal notes for all the 14 lectures, including contents in the slides, supplementary materials from the textbooks and discussions during lectures and office hours
-- Not guaranteed to be completely correct, please contact me if you find any of the errors (typos, coneceptual mistakes etc.) I would really appreciate your reading and correction
+- Personal notes for all 13 lectures on MPC (lecture 14 Numerical Optimization not included currently). Personal notes contain contents in the slides, supplementary materials from the textbooks, and discussions during lectures and office hours
+- Not guaranteed to be completely correct. Please contact me if you find any errors (typos, conceptual mistakes etc.) I would really appreciate your reading and correction
+
 
 ## Special Comments
 - Spring 2023 is the last time Professor Morari taught this course. Learned so much from this world-leading control theorist. Always gained new understanding in both research and practice not only from the course, but also from those one-to-one private chats during the after-class office hours. Thank you, Manfred!
 
-- Also recommended: Professor Manfred Morari's [Farewell Lecture](https://urldefense.com/v3/__https://video.ethz.ch/speakers/lecture/634d922a-f36c-4878-8450-c158ba2040c9.html__;!!IBzWLUs!XFal5FMzKj5YwyyryK-me--YujKmEuPIKt1fIKXTMgbaHfHsDuCZth74plter_nZq7On8kNH7iusHSduX2uVnUgv0jp1$) at ETH in 2016: Computation and Uncertainty, Reflections on 40 Years of Control. He gave a similar farewell talk in the last lecture of the semester. Defenitely worth reviewing over and over again.
+- Also recommended: Professor Manfred Morari's [Farewell Lecture](https://urldefense.com/v3/__https://video.ethz.ch/speakers/lecture/634d922a-f36c-4878-8450-c158ba2040c9.html__;!!IBzWLUs!XFal5FMzKj5YwyyryK-me--YujKmEuPIKt1fIKXTMgbaHfHsDuCZth74plter_nZq7On8kNH7iusHSduX2uVnUgv0jp1$) at ETH in 2016: Computation and Uncertainty, Reflections on 40 Years of Control. He gave a similar farewell talk in the last lecture of the semester. Definitely worth reviewing over and over again.
